@@ -1,0 +1,11 @@
+Decisões:
+
+1- Análise Estatística ou Modelagem Preditiva?
+
+2- Considerando que usaremos Modelagem Preditiva, devemos trabalhar com Machine Learning ou IA?
+
+3- Trabalharemos com IA. Devemos usar técnica de aprendizado supervisionado, não supervisionado ou modelagem de séries temporais?
+
+4- Usaremos modelagem de séries temporais. Como devemos fazer o pré-processamento dos dados?
+
+5- Como você entregará o resultado do seu trabalho?
